@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyProtocol", "ProxyProtocol.csproj", "{495E7F36-A31B-416F-8076-06C893FDE0E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyProtocol", "ProxyProtocol\ProxyProtocol.csproj", "{495E7F36-A31B-416F-8076-06C893FDE0E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyProtocolTest", "..\ProxyProtocolTest\ProxyProtocolTest.csproj", "{5CA3D03D-BC6A-4ACD-BD0E-6261698311D8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyProtocolTest", "ProxyProtocolTest\ProxyProtocolTest.csproj", "{5CA3D03D-BC6A-4ACD-BD0E-6261698311D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
